@@ -1,9 +1,9 @@
 {
-    "name": "Orange Mountains",
+    "name": "Orange NoMountains",
     "description": "A simple theme for Vendetta with an image of orange mountains. DARK MODE REQUIRED!",
     "authors": [
         {
-            "name": "Wizzy#0211",
+            "name": "Oki",
             "id": "715443625580036128"
         }
     ],
@@ -63,7 +63,7 @@
             "#181818"
         ],
         "BACKGROUND_MENTIONED": [
-            "#e6ed6a19"
+            "#ed6a19"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
             "#181818"
